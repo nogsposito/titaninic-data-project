@@ -1,5 +1,5 @@
 # Titanic: Sobreviventes (Projeto de Ciência de Dados)
-Projeto do Kaggle de Ciência de Dados, aplicado em Python com bibliotecas auxiliares. O objetivo é prever a sobrevivência dos passageiros com base de certas características como idade, sexo e classe social.
+Esse é um projeto clássico de Ciência de Dados, que fiz pela plataforma Kaggle. Meu objetivo com esse projeto foi demonstrar conhecimentos básicos de Análise e Ciência de Dados, com a produção de um modelo de machine-learning simples que tem sua acurácia testada, assim com produção de gráficos e manipulação de dados para prever, com base em dados chaves, a chance que alguém tem de sobreviver ao Titanic, analisando quem sobreviveu ou não ao naufrágio.
 
 ## Como rodar:
 
