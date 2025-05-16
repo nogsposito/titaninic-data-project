@@ -3,7 +3,10 @@ Projeto do Kaggle de Ciência de Dados, aplicado em Python com bibliotecas auxil
 
 ## Como rodar:
 
-1. Crie um ambiente virtual
-´´´console
-python3 -m venv venv
-´´´
+1. Crie um ambiente virtual `python3 -m venv venv`
+
+2. Instale as dependências com `pip install -r requirements.txt`
+
+3. Rode o Jupyter: `jupyter notebook`
+
+4. Acesse os notebooks na pasta `notebooks/`
