@@ -1,4 +1,4 @@
-# titaninic-data-project
+# Titanic: Sobreviventes (Projeto de Ciência de Dados)
 Projeto do Kaggle de Ciência de Dados, aplicado em Python com bibliotecas auxiliares. O objetivo é prever a sobrevivência dos passageiros com base de certas características como idade, sexo e classe social.
 
 ## Como rodar:
